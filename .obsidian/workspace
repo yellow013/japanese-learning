@@ -1,0 +1,73 @@
+{
+  "main": {
+    "id": "79af834f188e6121",
+    "type": "split",
+    "children": [
+      {
+        "id": "e22ad7c9fd8267fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "「は」.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a807657346119601",
+    "type": "split",
+    "children": [
+      {
+        "id": "be740b00c1e7ef08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73dfde3379bd8ab6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f130dd9350369dae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4de1f8ae1c7b4134",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e22ad7c9fd8267fe",
+  "lastOpenFiles": [
+    "「は」.md",
+    "mina-no-nihongo/note-05.md",
+    "mina-no-nihongo/note-01.md",
+    "mina-no-nihongo/note-02.md",
+    "adj-deformation.md"
+  ]
+}
