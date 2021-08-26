@@ -1,3 +1,3 @@
 # Japanese Learning
 
-Japanese Learning note
+Japanese Learning Note
